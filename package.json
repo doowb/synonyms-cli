@@ -1,7 +1,7 @@
 {
   "name": "synonyms-cli",
   "description": "CLI for looking up synonyms for given words.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/doowb/synonyms-cli",
   "author": "Brian Woodward (https://doowb.com)",
   "repository": "doowb/synonyms-cli",
