@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "files": [
+    "cli.js",
     "index.js"
   ],
   "main": "index.js",
@@ -23,10 +24,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [
-    "cli",
-    "synonyms"
-  ],
   "dependencies": {
     "minimist": "^1.2.0",
     "synonyms": "^1.0.1"
@@ -34,6 +31,10 @@
   "devDependencies": {
     "gulp-format-md": "^1.0.0"
   },
+  "keywords": [
+    "cli",
+    "synonyms"
+  ],
   "verb": {
     "toc": false,
     "layout": "global",
