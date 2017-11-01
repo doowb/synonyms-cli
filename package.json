@@ -25,8 +25,14 @@
     "test": "mocha"
   },
   "dependencies": {
+    "ansi-bold": "^0.1.1",
+    "ansi-cyan": "^0.1.1",
+    "ansi-gray": "^0.1.1",
+    "longest": "^2.0.1",
     "minimist": "^1.2.0",
-    "synonyms": "^1.0.1"
+    "repeat-string": "^1.6.1",
+    "synonyms": "^1.0.1",
+    "word-wrap": "^1.2.3"
   },
   "devDependencies": {
     "gulp-format-md": "^1.0.0"
