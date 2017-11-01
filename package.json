@@ -30,5 +30,21 @@
   "dependencies": {
     "minimist": "^1.2.0",
     "synonyms": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "global",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
   }
 }
