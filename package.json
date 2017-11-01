@@ -13,6 +13,10 @@
     "index.js"
   ],
   "main": "index.js",
+  "bin": {
+    "synonyms": "cli.js",
+    "synonyms-cli": "cli.js"
+  },
   "engines": {
     "node": ">=4"
   },
@@ -22,5 +26,9 @@
   "keywords": [
     "cli",
     "synonyms"
-  ]
+  ],
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "synonyms": "^1.0.1"
+  }
 }
