@@ -18,6 +18,10 @@ From the command line, pass a list of words to `synonyms` to lookup.
 $ synonyms [words to lookup]
 ```
 
+## Example
+
+![image](https://user-images.githubusercontent.com/995160/32301615-0ba2c9e6-bf35-11e7-93ef-5ecdb2d8fcc0.png)
+
 ## About
 
 ### Contributing
